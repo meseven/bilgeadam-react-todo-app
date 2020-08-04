@@ -5,7 +5,7 @@ import Form from './Form';
 function Header() {
 	return (
 		<header className="header">
-			<h1>todo app</h1>
+			<h1>todo</h1>
 			<Form />
 		</header>
 	);
